@@ -1,0 +1,29 @@
+.frame{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    background: #4cf09b;
+    top: 50%;
+    left: 50%;
+    margin-top: -200px;
+    margin-left: -200px;
+    box-shadow: 8px 10px 27px -7px rgb(0 0 0 / 50%);
+
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    margin-top: 45%;
+}
+
+.button{
+    display: block;
+    width: 38%;
+    padding: 4%;
+    border-radius: 44%;
+    background: #066b9a;
+    color: white;
+    font-size: 16px;
+}
+
